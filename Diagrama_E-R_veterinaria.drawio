@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="J5BfU6w58RvGhw4DbvcY">
-    <mxGraphModel dx="2234" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="hpRzWQ-ywDwWlA6ZiU90-7" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="mascota" vertex="1">
           <mxGeometry height="40" width="100" x="190" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="hpRzWQ-ywDwWlA6ZiU90-8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="proveedor" vertex="1">
+        <mxCell id="hpRzWQ-ywDwWlA6ZiU90-8" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="familiar_contacto" vertex="1">
           <mxGeometry height="40" width="100" x="-150" y="440" as="geometry" />
         </mxCell>
         <mxCell id="hpRzWQ-ywDwWlA6ZiU90-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="apellidos" vertex="1">
@@ -221,7 +221,7 @@
         <mxCell id="yEpH28ef8CGiwNKsH27I-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="especializacion" vertex="1">
           <mxGeometry height="40" width="100" x="510" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="yEpH28ef8CGiwNKsH27I-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo" vertex="1">
+        <mxCell id="yEpH28ef8CGiwNKsH27I-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="base _cotizacion" vertex="1">
           <mxGeometry height="40" width="100" x="727" y="500" as="geometry" />
         </mxCell>
         <mxCell id="yEpH28ef8CGiwNKsH27I-27" edge="1" parent="1" source="yEpH28ef8CGiwNKsH27I-20" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yEpH28ef8CGiwNKsH27I-24" value="">
